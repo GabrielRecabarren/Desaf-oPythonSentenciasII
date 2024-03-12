@@ -37,5 +37,5 @@ En este desafío, debemos determinar cuántos intentos son necesarios para encon
 - Deberá hacer este proceso letra por letra, de izquierda a derecha.
 
 ### Autor
+[GabrielRecabarren](https://github.com/GabrielRecabarren)
 
-Nombre: [Tu nombre]
